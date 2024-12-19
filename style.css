@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.account_form{
+    text-align: left;
+    background-color: rgb(158, 162, 226);
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+label{
+    margin-top: 20px;
+    margin-right: 120px;
+    margin-left: 20px;
+}
+button{
+    margin-top: 20px;
+    margin-left: 50px;
+    border-radius: 4px;
+    padding: 10px 20px;
+    background-color: #554bea;
+}
+textarea{
+    margin-top: 20px;   
+}
